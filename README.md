@@ -1,3 +1,5 @@
+<div align='center'>
+
 # **Python Projects**
 This repository contain code for three great Python Projects for hands-n grip on Python fundamentals.
 
@@ -10,3 +12,5 @@ This repository contain code for three great Python Projects for hands-n grip on
 ## Web Application
 
 ![{E8EC726D-C8AB-44B9-8572-362E3117C8FB} png](https://github.com/user-attachments/assets/56e9f035-9f9b-44ee-9689-9cebd7028636)
+
+</div>
